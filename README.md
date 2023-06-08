@@ -1,42 +1,4 @@
-<div align="center">
-
-![zap_logo](https://user-images.githubusercontent.com/29136904/202043505-8fda8d1e-3669-463b-a0c9-38c367ffb753.png)
-
-</div>
-
----
-
-<div align="center">
-
-<p>
-    <a href="https://github.com/zap-zsh/zap/releases/latest">
-      <img alt="Latest release" src="https://img.shields.io/github/v/release/zap-zsh/zap?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41" />
-    </a>
-    <a href="https://github.com/zap-zsh/zap/pulse">
-      <img alt="Last commit" src="https://img.shields.io/github/last-commit/zap-zsh/zap?style=for-the-badge&logo=starship&color=8bd5ca&logoColor=D9E0EE&labelColor=302D41"/>
-    </a>
-    <a href="https://github.com/zap-zsh/zap/blob/master/LICENSE">
-      <img alt="License" src="https://img.shields.io/github/license/zap-zsh/zap?style=for-the-badge&logo=starship&color=ee999f&logoColor=D9E0EE&labelColor=302D41" />
-    </a>
-    <a href="https://github.com/zap-zsh/zap/stargazers">
-      <img alt="Stars" src="https://img.shields.io/github/stars/zap-zsh/zap?style=for-the-badge&logo=starship&color=c69ff5&logoColor=D9E0EE&labelColor=302D41" />
-    </a>
-    <a href="https://github.com/zap-zsh/zap/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/zap-zsh/zap?style=for-the-badge&logo=bilibili&color=F5E0DC&logoColor=D9E0EE&labelColor=302D41" />
-    </a>
-    <a href="https://github.com/zap-zsh/zap">
-      <img alt="Repo Size" src="https://img.shields.io/github/repo-size/zap-zsh/zap?color=%23DDB6F2&label=SIZE&logo=codesandbox&style=for-the-badge&logoColor=D9E0EE&labelColor=302D41" />
-    </a>
-    <a href="https://patreon.com/chrisatmachine" title="Donate to this project using Patreon">
-      <img alt="Patreon donate button" src="https://img.shields.io/badge/patreon-donate-yellow.svg?style=for-the-badge&logo=starship&color=f5a97f&logoColor=D9E0EE&labelColor=302D41" />
-    </a>
-    <a href="https://twitter.com/intent/follow?screen_name=chrisatmachine">
-      <img alt="follow on Twitter" src="https://img.shields.io/twitter/follow/chrisatmachine?style=for-the-badge&logo=twitter&color=8aadf3&logoColor=D9E0EE&labelColor=302D41" />
-    </a>
-
-:zap: Zap is a minimal `zsh` plugin manager
-
-</div>
+# zplug: Zplug is a minimal `zsh` plugin manager
 
 ## Prerequisites
 
